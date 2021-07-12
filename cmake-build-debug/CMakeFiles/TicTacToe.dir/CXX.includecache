@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Documents/Semicolon/Sofware_Engineering/C++Practice/DeitelHowToProgram/TicTacToe/Board.cpp
+Board.h
+D:/Documents/Semicolon/Sofware_Engineering/C++Practice/DeitelHowToProgram/TicTacToe/Board.h
+string
+-
+iostream
+-
+
+D:/Documents/Semicolon/Sofware_Engineering/C++Practice/DeitelHowToProgram/TicTacToe/Board.h
+string
+-
+array
+-
+
