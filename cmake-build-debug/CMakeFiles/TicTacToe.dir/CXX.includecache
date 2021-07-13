@@ -6,17 +6,33 @@
 
 #IncludeRegexTransform: 
 
-D:/Documents/Semicolon/Sofware_Engineering/C++Practice/DeitelHowToProgram/TicTacToe/Board.cpp
-Board.h
-D:/Documents/Semicolon/Sofware_Engineering/C++Practice/DeitelHowToProgram/TicTacToe/Board.h
-string
--
-iostream
--
-
 D:/Documents/Semicolon/Sofware_Engineering/C++Practice/DeitelHowToProgram/TicTacToe/Board.h
 string
 -
 array
 -
+
+D:/Documents/Semicolon/Sofware_Engineering/C++Practice/DeitelHowToProgram/TicTacToe/Game.cpp
+Game.h
+D:/Documents/Semicolon/Sofware_Engineering/C++Practice/DeitelHowToProgram/TicTacToe/Game.h
+iostream
+-
+stdexcept
+-
+set
+-
+
+D:/Documents/Semicolon/Sofware_Engineering/C++Practice/DeitelHowToProgram/TicTacToe/Game.h
+Board.h
+D:/Documents/Semicolon/Sofware_Engineering/C++Practice/DeitelHowToProgram/TicTacToe/Board.h
+array
+-
+
+D:/Documents/Semicolon/Sofware_Engineering/C++Practice/DeitelHowToProgram/TicTacToe/main.cpp
+iostream
+-
+stdexcept
+-
+Game.h
+D:/Documents/Semicolon/Sofware_Engineering/C++Practice/DeitelHowToProgram/TicTacToe/Game.h
 

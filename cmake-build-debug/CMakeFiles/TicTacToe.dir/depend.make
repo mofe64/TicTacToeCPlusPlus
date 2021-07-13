@@ -4,6 +4,11 @@
 CMakeFiles/TicTacToe.dir/Board.cpp.obj: ../Board.cpp
 CMakeFiles/TicTacToe.dir/Board.cpp.obj: ../Board.h
 
+CMakeFiles/TicTacToe.dir/Game.cpp.obj: ../Board.h
+CMakeFiles/TicTacToe.dir/Game.cpp.obj: ../Game.cpp
+CMakeFiles/TicTacToe.dir/Game.cpp.obj: ../Game.h
+
 CMakeFiles/TicTacToe.dir/main.cpp.obj: ../Board.h
+CMakeFiles/TicTacToe.dir/main.cpp.obj: ../Game.h
 CMakeFiles/TicTacToe.dir/main.cpp.obj: ../main.cpp
 

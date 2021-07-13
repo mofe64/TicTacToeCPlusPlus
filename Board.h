@@ -13,10 +13,9 @@ public:
     ~Board();
     void displayBoard();
     enum gameValue {X=1, O=0, EMPTY=2};
-    std::array<std::array<gameValue, 3>, 3> getGameArray();
+    std::array<std::array<gameValue, 3>,3>& getGameArray();
 private:
-    std::array<std::array<gameValue, 3>, 3> gameArray;
-
+    std::array<std::array<gameValue, 3>,3> gameArray;
 };
 
 

@@ -9,14 +9,14 @@
 
 class Game {
 public:
-   explicit Game();
+   explicit Game(Board&);
    ~Game();
    void makeMove(int);
    void displayBoard();
    bool gameWon;
 
 private:
-    std::array<std::array<Board::gameValue,3>,3> getBoard();
+    std::array<std::array<Board::gameValue,3>,3>& getBoard();
     bool boardFull;
     bool lastValuePlayedWasX;
     bool isGameWon();
